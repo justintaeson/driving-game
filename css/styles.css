@@ -1,3 +1,9 @@
 .background {
   background-color: rgb(40, 141, 38);
 }
+
+.car-image {
+  transform: rotate(180deg);
+  width: 15rem;
+  height: auto;
+}
