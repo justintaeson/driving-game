@@ -6,8 +6,19 @@ body {
   background-color: rgb(40, 141, 38);
 }
 
-.car-image {
+.car-right {
+  transform: rotate(90deg);
+}
+
+.car-left {
+  transform: rotate(-90deg);
+}
+
+.car-start {
   transform: rotate(180deg);
+}
+
+.car-size {
   width: 15rem;
   height: auto;
 }
